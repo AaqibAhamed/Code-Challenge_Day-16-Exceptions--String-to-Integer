@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Code Challenge_Day 16 Exceptions- String to Integer", "Code Challenge_Day 16 Exceptions- String to Integer.csproj", "{046E51F0-45EB-4192-A4E5-2C0713746B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046E51F0-45EB-4192-A4E5-2C0713746B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046E51F0-45EB-4192-A4E5-2C0713746B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046E51F0-45EB-4192-A4E5-2C0713746B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046E51F0-45EB-4192-A4E5-2C0713746B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAC7A12-FE49-48AC-8520-D6196996D372}
+	EndGlobalSection
+EndGlobal
